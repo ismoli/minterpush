@@ -1,0 +1,71 @@
+{
+  "brand": "MinterPush",
+  "title": "MinterPush",
+  "lead": "Send Minter coins to anyone in seconds, recipient does not need a wallet to spend, exchange or transfer coins",
+  "mainBtn": "Start Pushing »",
+  "step1title": "Let's start",
+  "senderHint": "Your name",
+  "senderText": "Recipient will see this. Optional",
+  "recipientHint": "Recipient's name",
+  "recipientText": "Optional",
+  "next": "Next",
+  "hello": "Hello",
+  "balance": "Balance",
+  "step2desc": "Send coins to this address:",
+  "step2btn": "I have sent coins",
+  "step2alert": "Nothing yet",
+  "step3title": "Great, all done!",
+  "step3text": "Now just share this URL with recipient:",
+  "step3btn": "Copy URL",
+  "send": "Send",
+
+  "mintego": {
+    "text": "MinteGo is a charity project under Minter blockchain with the sole aim of helping the less privileged especially Children in Nigerian and her environs."
+  },
+
+"biptophone": {
+  "subtitle": "Supported countries are Russia, Belarus, Ukraine and Kazakhstan",
+  "topupAmount": "Top up amount",
+  "phoneLabel": "Enter phone number in full international format:"
+},
+
+  "wallet": {
+    "hi": "Hi",
+    "subTitle": "has sent you",
+    "subTitle2": "Your balance is",
+    "cat1": "Transfer coins",
+    "cat2": "Spend",
+    "cat3": "Charity",
+    "buy": "Buy",
+    "donate": "Donate",
+    "topup": "Top up",
+    "topupMobile": "Top up mobile",
+    "exchange": "Exchange",
+    "anotherPerson": "Another person",
+    "yourWallet": "Your wallet",
+    "giftCerts": "GIFT certificates",
+    "exchangeBTC": "Exchange to Bitcoin",
+    "enterAddress": "Enter address"
+
+  },
+  "msg": {
+    "copied": "Copied",
+    "resourceNotFound": "404 File Not found",
+    "notFound": "Not found",
+    "resourceExpired": "Expired or not available anymore",
+    "forbidden": "Forbidden",
+    "bipToPhoneSuccess": "Top up success"
+  },
+  "err": {
+    "fetch": "Connection error, please try again",
+    "invalidMinterAddress": "Invalid Minter address, should start with Mx..",
+    "missingFields": "Missing required fields",
+    "general": "Something went wrong, please try again"
+
+  },
+  "btn": {
+    "create": "Create"
+
+  }
+
+}
